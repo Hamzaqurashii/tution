@@ -1,0 +1,51 @@
+body{
+    font-family: "Montserrat";
+    z-index: 1 !important;
+    background-color: #d2f5e3 !important;
+}
+.navbar-brand{
+color: white !important;
+}
+.form-inline{
+left: 35% !important;
+position: -webkit-sticky;
+padding-left: 26rem !important;
+}
+.navbar-expand-lg{
+    background-color: #206a5d !important;
+}
+.form-control{
+    width: max-content !important;
+    
+}
+
+.ver {
+  top: 3.5rem;
+  width: 100px ;
+  background-color: #206a5d;
+  position: absolute !important;
+  height: 100%;
+  overflow: auto;
+  text-align: center !important;
+  z-index: 10;
+}
+.btn-primary{
+    border-color: #206a5d !important;
+    background-color: #206a5d !important;
+    height: 4rem;
+    
+}
+.btn-primary a{
+    color: white !important;
+}
+.btn-primary:hover{
+    color: darkslategrey !important;
+}
+
+.container-fluid h1{
+    position: absolute;
+    padding-left: 6rem !important;
+}
+.zzzz{
+    margin-top: 3rem;
+}
